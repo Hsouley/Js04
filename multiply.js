@@ -6,4 +6,4 @@ function multiply(a, b) {
 let resultat = multiply(10, 5);
 console.log(resultat); // Output : 50
 
-module.exports = multiply
+module.exports = multiply;

@@ -10,4 +10,4 @@ function checkSign(n) {
 console.log(checkSign(-5)); // Output : Negatif
 console.log(checkSign(10)); // Output : Positif
 console.log(checkSign(0)); // Output : Positif
-module.exports = checkSign
+module.exports = checkSign;

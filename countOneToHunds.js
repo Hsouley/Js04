@@ -6,4 +6,4 @@ function countOneToHunds() {
 
 // Appel de la fonction pour afficher le décompte dans la console
 countOneToHunds();
-module.exports = countOneToHunds
+module.exports = countOneToHunds;
